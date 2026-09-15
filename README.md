@@ -2,7 +2,7 @@
 
 [![Claude Code](https://img.shields.io/badge/Claude_Code-%E8%A7%84%E5%88%99%E5%BF%AB%E7%85%A7-d97757?logo=anthropic&logoColor=white)](https://github.com/caixibei/agent_settings/tree/20260915)
 [![Codex](https://img.shields.io/badge/Codex-%E9%85%8D%E7%BD%AE%E5%BF%AB%E7%85%A7-10a37f?logo=openai&logoColor=white)](https://github.com/caixibei/agent_settings/tree/20260915)
-[![ZCode](https://img.shields.io/badge/ZCode-%E9%85%8D%E7%BD%AE%E5%BF%AB%E7%85%A7-4C8BF5)](https://github.com/caixibei/agent_settings/tree/20260911)
+[![ZCode](https://img.shields.io/badge/ZCode-%E9%85%8D%E7%BD%AE%E5%BF%AB%E7%85%A7-4C8BF5)](https://github.com/caixibei/agent_settings/tree/20260915)
 [![日期分支](https://img.shields.io/github/branches/caixibei/agent_settings?label=%E6%97%A5%E6%9C%9F%E5%88%86%E6%94%AF)](https://github.com/caixibei/agent_settings/branches)
 [![仓库体积](https://img.shields.io/github/repo-size/caixibei/agent_settings?label=%E4%BB%93%E5%BA%93%E4%BD%93%E7%A7%AF)](https://github.com/caixibei/agent_settings)
 [![最近提交](https://img.shields.io/github/last-commit/caixibei/agent_settings/20260915?label=%E6%9C%80%E8%BF%91%E6%8F%90%E4%BA%A4)](https://github.com/caixibei/agent_settings/commits/20260915)
@@ -25,7 +25,7 @@ Claude Code、Codex、ZCode 三套 AI 编码工具的提示词进化档案。从
 | [20260907](https://github.com/caixibei/agent_settings/tree/20260907) ～ [20260910](https://github.com/caixibei/agent_settings/tree/20260910) | codex 每日一包（v26.9.7 → v26.9.10） | 进入日更节奏 |
 | [20260911](https://github.com/caixibei/agent_settings/tree/20260911) | zcode 3 个 zip，codex 同日 5 个小版本 v26.9.11.1～5 | ZCode 首次入库，单日多版本 |
 | [20260912](https://github.com/caixibei/agent_settings/tree/20260912) ～ [20260914](https://github.com/caixibei/agent_settings/tree/20260914) | codex 每日一包（v26.9.12.1 → v26.9.14.1） | — |
-| [20260915](https://github.com/caixibei/agent_settings/tree/20260915) | codex v26.9.15.1 | 当前最新 |
+| [20260915](https://github.com/caixibei/agent_settings/tree/20260915) | codex v26.9.15.1～2，zcode v26.9.15.1 | 当前最新；ZCode 时隔 4 天再次入库 |
 
 ## 分支怎么组织
 
