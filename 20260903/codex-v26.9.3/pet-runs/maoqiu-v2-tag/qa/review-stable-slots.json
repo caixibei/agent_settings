@@ -1,0 +1,1001 @@
+{
+  "ok": true,
+  "frames_root": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [
+    "idle used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running-right used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running-left used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "waving used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "jumping used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "failed used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "waiting used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "review used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+  ],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "idle used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13548,
+          "bbox": [
+            44,
+            5,
+            147,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 299
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12750,
+          "bbox": [
+            48,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 309
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12683,
+          "bbox": [
+            47,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 283
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12821,
+          "bbox": [
+            48,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 302
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12801,
+          "bbox": [
+            48,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 316
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12854,
+          "bbox": [
+            48,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 299
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running-right used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10398,
+          "bbox": [
+            52,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 281
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11205,
+          "bbox": [
+            47,
+            6,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 320
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10829,
+          "bbox": [
+            47,
+            8,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 344
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10612,
+          "bbox": [
+            47,
+            10,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 314
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10398,
+          "bbox": [
+            47,
+            11,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 328
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10731,
+          "bbox": [
+            47,
+            12,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 425
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10344,
+          "bbox": [
+            47,
+            14,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 354
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9663,
+          "bbox": [
+            47,
+            15,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 301
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running-left used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\running-left\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11329,
+          "bbox": [
+            42,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 298
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\running-left\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9241,
+          "bbox": [
+            51,
+            12,
+            140,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 306
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9594,
+          "bbox": [
+            51,
+            17,
+            140,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 297
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9956,
+          "bbox": [
+            49,
+            14,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 301
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9523,
+          "bbox": [
+            52,
+            12,
+            140,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 303
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9823,
+          "bbox": [
+            49,
+            15,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 295
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8926,
+          "bbox": [
+            54,
+            17,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 227
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\running-left\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9106,
+          "bbox": [
+            53,
+            17,
+            139,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 258
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "waving used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\waving\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13447,
+          "bbox": [
+            50,
+            7,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 219
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\waving\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12850,
+          "bbox": [
+            50,
+            10,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 228
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\waving\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13021,
+          "bbox": [
+            51,
+            7,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 197
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\waving\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13051,
+          "bbox": [
+            50,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 217
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "jumping used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7124,
+          "bbox": [
+            56,
+            68,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 112
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7482,
+          "bbox": [
+            56,
+            31,
+            135,
+            194
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 123
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6894,
+          "bbox": [
+            61,
+            5,
+            130,
+            162
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 95
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 5106,
+          "bbox": [
+            61,
+            64,
+            130,
+            179
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 106
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 5850,
+          "bbox": [
+            59,
+            70,
+            132,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 101
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "failed used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\failed\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13303,
+          "bbox": [
+            46,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 369
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\failed\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10827,
+          "bbox": [
+            50,
+            39,
+            141,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 215
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\failed\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9402,
+          "bbox": [
+            50,
+            57,
+            140,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 166
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\failed\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7941,
+          "bbox": [
+            43,
+            87,
+            148,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 177
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\failed\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9228,
+          "bbox": [
+            36,
+            101,
+            155,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 173
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\failed\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9856,
+          "bbox": [
+            49,
+            54,
+            141,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 200
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\failed\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10590,
+          "bbox": [
+            49,
+            32,
+            142,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 208
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\failed\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10620,
+          "bbox": [
+            52,
+            24,
+            139,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 318
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "waiting used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\waiting\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11493,
+          "bbox": [
+            50,
+            19,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 258
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\waiting\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9707,
+          "bbox": [
+            51,
+            35,
+            139,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 144
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\waiting\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11933,
+          "bbox": [
+            51,
+            5,
+            140,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 267
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\waiting\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9306,
+          "bbox": [
+            56,
+            32,
+            135,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 150
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\waiting\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8202,
+          "bbox": [
+            59,
+            36,
+            132,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 158
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\waiting\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9241,
+          "bbox": [
+            50,
+            43,
+            141,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 126
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\running\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8533,
+          "bbox": [
+            59,
+            5,
+            133,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 204
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\running\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8384,
+          "bbox": [
+            58,
+            11,
+            134,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 188
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\running\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8727,
+          "bbox": [
+            58,
+            8,
+            134,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 188
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\running\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9178,
+          "bbox": [
+            58,
+            9,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 218
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\running\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8592,
+          "bbox": [
+            59,
+            11,
+            133,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 177
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\running\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8601,
+          "bbox": [
+            59,
+            5,
+            133,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 180
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "review used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\review\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13102,
+          "bbox": [
+            47,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 322
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\review\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9703,
+          "bbox": [
+            56,
+            32,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 215
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\review\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12415,
+          "bbox": [
+            50,
+            26,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 301
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\review\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10784,
+          "bbox": [
+            47,
+            25,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 227
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\review\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10175,
+          "bbox": [
+            56,
+            25,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 220
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\caixi\\.Codex\\pet-runs\\maoqiu-v2-tag\\frames-stable-slots\\review\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10979,
+          "bbox": [
+            56,
+            32,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 245
+        }
+      ]
+    }
+  ]
+}

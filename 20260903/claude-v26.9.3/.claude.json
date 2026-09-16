@@ -1,0 +1,1796 @@
+{
+  "numStartups": 72,
+  "hasSeenTasksHint": true,
+  "tipsHistory": {
+    "new-user-warmup": 8,
+    "plan-mode-for-complex-tasks": 60,
+    "memory-command": 66,
+    "theme-command": 63,
+    "powershell-tool-env": 57,
+    "status-line": 55,
+    "prompt-queue": 33,
+    "agents-view-multiclauding": 12,
+    "color-when-multi-clauding": 59,
+    "enter-to-steer-in-relatime": 64,
+    "todo-list": 65,
+    "ide-upsell-external-terminal": 57,
+    "drag-and-drop-images": 57,
+    "double-esc-code-restore": 58,
+    "continue": 59,
+    "shift-tab": 60,
+    "image-paste": 66,
+    "subagent-fanout-nudge": 64,
+    "loop-command-nudge": 64,
+    "custom-agents": 67,
+    "permissions": 68,
+    "rename-conversation": 59,
+    "git-worktrees": 61,
+    "dynamic-workflows": 70,
+    "workflow-size-prompting-ambient": 72,
+    "code-review-low-fast": 72
+  },
+  "promptQueueUseCount": 9,
+  "unpinOpus47LaunchEffort": true,
+  "unpinOpus48LaunchEffort": true,
+  "unpinFable5LaunchEffort": true,
+  "firstStartTime": "2026-06-04T18:17:47.584Z",
+  "opusProMigrationComplete": true,
+  "sonnet1m45MigrationComplete": true,
+  "seenNotifications": {},
+  "migrationVersion": 14,
+  "userID": "c7d423779c50c590749d6c694a27d4ffaa26874e4752836e8d21de0194d30f24",
+  "projects": {
+    "F:\\bp-lims": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": true,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false
+    },
+    "C:/Users/caixi": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": false,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false,
+      "exampleFiles": [],
+      "lastGracefulShutdown": true,
+      "lastVersionBase": "2.1.220",
+      "lastCost": 0,
+      "lastAPIDuration": 0,
+      "lastAPIDurationWithoutRetries": 0,
+      "lastToolDuration": 0,
+      "lastDuration": 44751,
+      "lastLinesAdded": 0,
+      "lastLinesRemoved": 0,
+      "lastTotalInputTokens": 0,
+      "lastTotalOutputTokens": 0,
+      "lastTotalCacheCreationInputTokens": 0,
+      "lastTotalCacheReadInputTokens": 0,
+      "lastTotalWebSearchRequests": 0,
+      "lastFpsAverage": 0.83,
+      "lastFpsLow1Pct": 77.71,
+      "lastModelUsage": {},
+      "lastSessionId": "06286af3-7468-4514-af9f-2755be07b9ad",
+      "lastSessionMetrics": {
+        "frame_duration_ms_count": 36,
+        "frame_duration_ms_min": 0.11709999999584397,
+        "frame_duration_ms_max": 12.86819999999716,
+        "frame_duration_ms_avg": 1.5708499999995302,
+        "frame_duration_ms_p50": 0.8858999999974912,
+        "frame_duration_ms_p95": 4.171925000003597,
+        "frame_duration_ms_p99": 11.812179999998149,
+        "hook_duration_ms_count": 1,
+        "hook_duration_ms_min": 791,
+        "hook_duration_ms_max": 791,
+        "hook_duration_ms_avg": 791,
+        "hook_duration_ms_p50": 791,
+        "hook_duration_ms_p95": 791,
+        "hook_duration_ms_p99": 791
+      },
+      "lastStartTime": 1785910586214
+    },
+    "F:/bp-lims": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": true,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false,
+      "lastGracefulShutdown": true,
+      "lastVersionBase": "2.1.170",
+      "lastCost": 2.7542542,
+      "lastAPIDuration": 398634,
+      "lastAPIDurationWithoutRetries": 398466,
+      "lastToolDuration": 227518,
+      "lastDuration": 571759,
+      "lastLinesAdded": 77,
+      "lastLinesRemoved": 0,
+      "lastTotalInputTokens": 512356,
+      "lastTotalOutputTokens": 24571,
+      "lastTotalCacheCreationInputTokens": 0,
+      "lastTotalCacheReadInputTokens": 554240,
+      "lastTotalWebSearchRequests": 0,
+      "lastFpsAverage": 8.63,
+      "lastFpsLow1Pct": 202.66,
+      "lastModelUsage": {
+        "claude-haiku-4-5": {
+          "inputTokens": 54012,
+          "outputTokens": 15519,
+          "cacheReadInputTokens": 431232,
+          "cacheCreationInputTokens": 0,
+          "webSearchRequests": 0,
+          "costUSD": 0.1747302
+        },
+        "claude-opus-4-8[1M][1m]": {
+          "inputTokens": 458344,
+          "outputTokens": 9052,
+          "cacheReadInputTokens": 123008,
+          "cacheCreationInputTokens": 0,
+          "webSearchRequests": 0,
+          "costUSD": 2.579524
+        }
+      },
+      "lastSessionId": "99f0788a-a596-477d-aec7-0b802d099d5c",
+      "lastSessionMetrics": {
+        "frame_duration_ms_count": 4863,
+        "frame_duration_ms_min": 0.13099999999940337,
+        "frame_duration_ms_max": 33.23089999999502,
+        "frame_duration_ms_avg": 0.9952873946129676,
+        "frame_duration_ms_p50": 0.7967499999940628,
+        "frame_duration_ms_p95": 2.1654550000006565,
+        "frame_duration_ms_p99": 7.357826000000931,
+        "hook_duration_ms_count": 236,
+        "hook_duration_ms_min": 197,
+        "hook_duration_ms_max": 16961,
+        "hook_duration_ms_avg": 5128.368644067797,
+        "hook_duration_ms_p50": 4102,
+        "hook_duration_ms_p95": 15057.75,
+        "hook_duration_ms_p99": 16126.250000000002,
+        "pre_tool_hook_duration_ms_count": 120,
+        "pre_tool_hook_duration_ms_min": 198,
+        "pre_tool_hook_duration_ms_max": 12373,
+        "pre_tool_hook_duration_ms_avg": 1342.7333333333331,
+        "pre_tool_hook_duration_ms_p50": 302,
+        "pre_tool_hook_duration_ms_p95": 6951.599999999999,
+        "pre_tool_hook_duration_ms_p99": 10255.97
+      },
+      "activeWorktreeSession": {
+        "originalCwd": "F:\\bp-lims",
+        "worktreePath": "F:\\w\\rkexcel",
+        "worktreeName": "rkexcel",
+        "worktreeBranch": "worktree-warehousing-entry-excel-export",
+        "sessionId": "9a7ffec6-2ad9-409d-8e88-36adb1e77f70",
+        "enteredExisting": true
+      }
+    },
+    "F:/": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": true,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false,
+      "lastGracefulShutdown": true,
+      "lastVersionBase": "2.1.170",
+      "lastCost": 0,
+      "lastAPIDuration": 0,
+      "lastAPIDurationWithoutRetries": 0,
+      "lastToolDuration": 0,
+      "lastDuration": 14454,
+      "lastLinesAdded": 0,
+      "lastLinesRemoved": 0,
+      "lastTotalInputTokens": 0,
+      "lastTotalOutputTokens": 0,
+      "lastTotalCacheCreationInputTokens": 0,
+      "lastTotalCacheReadInputTokens": 0,
+      "lastTotalWebSearchRequests": 0,
+      "lastFpsAverage": 1.15,
+      "lastFpsLow1Pct": 112.85,
+      "lastModelUsage": {},
+      "lastSessionId": "5b2721f1-5960-4a18-b8b5-9388f18039fc",
+      "lastSessionMetrics": {
+        "frame_duration_ms_count": 13,
+        "frame_duration_ms_min": 0.25879999999961,
+        "frame_duration_ms_max": 8.861600000000067,
+        "frame_duration_ms_avg": 1.916392307692499,
+        "frame_duration_ms_p50": 0.5822000000007392,
+        "frame_duration_ms_p95": 8.229259999999929,
+        "frame_duration_ms_p99": 8.73513200000004
+      }
+    },
+    "F:\\high-speed-scanner": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": true,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false
+    },
+    "F:/high-speed-scanner": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": false,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false,
+      "exampleFiles": [],
+      "lastGracefulShutdown": true,
+      "lastVersionBase": "2.1.170",
+      "lastCost": 1.6390600000000004,
+      "lastAPIDuration": 73686,
+      "lastAPIDurationWithoutRetries": 73675,
+      "lastToolDuration": 5582,
+      "lastDuration": 230805,
+      "lastLinesAdded": 38,
+      "lastLinesRemoved": 0,
+      "lastTotalInputTokens": 298869,
+      "lastTotalOutputTokens": 4483,
+      "lastTotalCacheCreationInputTokens": 0,
+      "lastTotalCacheReadInputTokens": 65280,
+      "lastTotalWebSearchRequests": 0,
+      "lastFpsAverage": 7.27,
+      "lastFpsLow1Pct": 29.42,
+      "lastModelUsage": {
+        "claude-opus-4-8[1M][1m]": {
+          "inputTokens": 298869,
+          "outputTokens": 4483,
+          "cacheReadInputTokens": 65280,
+          "cacheCreationInputTokens": 0,
+          "webSearchRequests": 0,
+          "costUSD": 1.6390600000000004
+        }
+      },
+      "lastSessionId": "2ec97dbb-e0a9-46f3-a419-110d8832577f",
+      "lastSessionMetrics": {
+        "frame_duration_ms_count": 1667,
+        "frame_duration_ms_min": 0.1238999999986845,
+        "frame_duration_ms_max": 218.02880000000005,
+        "frame_duration_ms_avg": 1.947338272345443,
+        "frame_duration_ms_p50": 0.6587500000005093,
+        "frame_duration_ms_p95": 2.145864999994228,
+        "frame_duration_ms_p99": 17.812573000000747,
+        "hook_duration_ms_count": 32,
+        "hook_duration_ms_min": 216,
+        "hook_duration_ms_max": 18949,
+        "hook_duration_ms_avg": 4652.84375,
+        "hook_duration_ms_p50": 5742.5,
+        "hook_duration_ms_p95": 9592.4,
+        "hook_duration_ms_p99": 16145.98000000001,
+        "pre_tool_hook_duration_ms_count": 15,
+        "pre_tool_hook_duration_ms_min": 217,
+        "pre_tool_hook_duration_ms_max": 6815,
+        "pre_tool_hook_duration_ms_avg": 1674,
+        "pre_tool_hook_duration_ms_p50": 274,
+        "pre_tool_hook_duration_ms_p95": 6422.999999999999,
+        "pre_tool_hook_duration_ms_p99": 6736.599999999999
+      }
+    },
+    "C:/Users/caixi/.claude/plugins/marketplaces/claude-mem": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": true,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false,
+      "lastGracefulShutdown": false,
+      "lastVersionBase": "2.1.170"
+    },
+    "E:\\20260622 CC文件备份": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": true,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false
+    },
+    "E:\\20260622_CC文件备份": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": true,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false
+    },
+    "D:\\protable\\weworkapi_python": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": true,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false
+    },
+    "F:\\bp-lims\\hussar-mobile": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": true,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false
+    },
+    "C:/Users/caixi/AppData/Local/Packages/Claude_pzs8sxrjxfjjc/LocalCache/Roaming/Claude/claude-code/2.1.237": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": true,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false,
+      "lastGracefulShutdown": true,
+      "lastVersionBase": "2.1.237",
+      "lastCost": 1.5121565000000001,
+      "lastAPIDuration": 246702,
+      "lastAPIDurationWithoutRetries": 246635,
+      "lastToolDuration": 87370,
+      "lastDuration": 488138,
+      "lastStartTime": 1787290983188,
+      "lastLinesAdded": 0,
+      "lastLinesRemoved": 0,
+      "lastTotalInputTokens": 273411,
+      "lastTotalOutputTokens": 3158,
+      "lastTotalCacheCreationInputTokens": 0,
+      "lastTotalCacheReadInputTokens": 132303,
+      "lastTotalWebSearchRequests": 0,
+      "lastFpsAverage": 7.12,
+      "lastFpsLow1Pct": 705.22,
+      "lastModelUsage": {
+        "gpt-5.6-terra[1M]": {
+          "inputTokens": 273411,
+          "outputTokens": 3158,
+          "cacheReadInputTokens": 132303,
+          "cacheCreationInputTokens": 0,
+          "webSearchRequests": 0,
+          "costUSD": 1.5121565000000001
+        }
+      },
+      "lastSessionId": "a7601945-1272-48e8-831e-cacdddab1e03",
+      "lastSessionMetrics": {
+        "frame_duration_ms_count": 3470,
+        "frame_duration_ms_min": 0.05160000000614673,
+        "frame_duration_ms_max": 8.515899999999988,
+        "frame_duration_ms_avg": 0.5271157060522158,
+        "frame_duration_ms_p50": 0.5605000000214204,
+        "frame_duration_ms_p95": 0.990124999996624,
+        "frame_duration_ms_p99": 1.329761000016587,
+        "pre_tool_hook_duration_ms_count": 4,
+        "pre_tool_hook_duration_ms_min": 0,
+        "pre_tool_hook_duration_ms_max": 1,
+        "pre_tool_hook_duration_ms_avg": 0.25,
+        "pre_tool_hook_duration_ms_p50": 0,
+        "pre_tool_hook_duration_ms_p95": 0.8499999999999996,
+        "pre_tool_hook_duration_ms_p99": 0.9699999999999998
+      }
+    },
+    "D:\\protable\\nginx-1.31.4": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": true,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false
+    },
+    "F:\\vision-mcp-server": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": true,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false
+    },
+    "F:\\claude-code-system-prompts": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": true,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false
+    }
+  },
+  "skillUsage": {
+    "systematic-debugging": {
+      "usageCount": 119,
+      "lastUsedAt": 1785904999823
+    },
+    "brainstorming": {
+      "usageCount": 95,
+      "lastUsedAt": 1785894795287
+    },
+    "writing-plans": {
+      "usageCount": 32,
+      "lastUsedAt": 1785895500935
+    },
+    "subagent-driven-development": {
+      "usageCount": 14,
+      "lastUsedAt": 1783528572281
+    },
+    "code-review": {
+      "usageCount": 9,
+      "lastUsedAt": 1785452162101
+    },
+    "finishing-a-development-branch": {
+      "usageCount": 3,
+      "lastUsedAt": 1783929101406
+    },
+    "using-superpowers": {
+      "usageCount": 45,
+      "lastUsedAt": 1785899087201
+    },
+    "test-driven-development": {
+      "usageCount": 10,
+      "lastUsedAt": 1785895240236
+    },
+    "verification-before-completion": {
+      "usageCount": 10,
+      "lastUsedAt": 1785896763263
+    },
+    "verify": {
+      "usageCount": 3,
+      "lastUsedAt": 1781689649423
+    },
+    "executing-plans": {
+      "usageCount": 12,
+      "lastUsedAt": 1785896333913
+    },
+    "using-git-worktrees": {
+      "usageCount": 3,
+      "lastUsedAt": 1782118257390
+    },
+    "remember:remember": {
+      "usageCount": 1,
+      "lastUsedAt": 1781059347147
+    },
+    "claude-mem:pathfinder": {
+      "usageCount": 1,
+      "lastUsedAt": 1781062449792
+    },
+    "claude-mem:smart-explore": {
+      "usageCount": 7,
+      "lastUsedAt": 1783655761024
+    },
+    "claude-mem:mem-search": {
+      "usageCount": 5,
+      "lastUsedAt": 1781509856883
+    },
+    "superpowers:brainstorming": {
+      "usageCount": 53,
+      "lastUsedAt": 1785939900105
+    },
+    "superpowers:systematic-debugging": {
+      "usageCount": 42,
+      "lastUsedAt": 1785946207966
+    },
+    "superpowers:test-driven-development": {
+      "usageCount": 17,
+      "lastUsedAt": 1785933505871
+    },
+    "superpowers:writing-plans": {
+      "usageCount": 25,
+      "lastUsedAt": 1785944777017
+    },
+    "superpowers:verification-before-completion": {
+      "usageCount": 12,
+      "lastUsedAt": 1785946629796
+    },
+    "superpowers-developing-for-claude-code:working-with-claude-code": {
+      "usageCount": 3,
+      "lastUsedAt": 1782235126099
+    },
+    "update-config": {
+      "usageCount": 1,
+      "lastUsedAt": 1781246586414
+    },
+    "episodic-memory:remembering-conversations": {
+      "usageCount": 21,
+      "lastUsedAt": 1785906641022
+    },
+    "superpowers:using-superpowers": {
+      "usageCount": 44,
+      "lastUsedAt": 1785939888837
+    },
+    "requesting-code-review": {
+      "usageCount": 1,
+      "lastUsedAt": 1781251281643
+    },
+    "elements-of-style:writing-clearly-and-concisely": {
+      "usageCount": 12,
+      "lastUsedAt": 1785890860784
+    },
+    "superpowers:subagent-driven-development": {
+      "usageCount": 6,
+      "lastUsedAt": 1783479190354
+    },
+    "superpowers:using-git-worktrees": {
+      "usageCount": 4,
+      "lastUsedAt": 1781661717494
+    },
+    "superpowers:requesting-code-review": {
+      "usageCount": 1,
+      "lastUsedAt": 1781502582089
+    },
+    "web-access": {
+      "usageCount": 3,
+      "lastUsedAt": 1782225762301
+    },
+    "superpowers:executing-plans": {
+      "usageCount": 13,
+      "lastUsedAt": 1785944966358
+    },
+    "init": {
+      "usageCount": 6,
+      "lastUsedAt": 1781775485532
+    },
+    "superpowers:finishing-a-development-branch": {
+      "usageCount": 7,
+      "lastUsedAt": 1785946829859
+    },
+    "run": {
+      "usageCount": 2,
+      "lastUsedAt": 1786344550887
+    },
+    "superpowers-chrome:browsing": {
+      "usageCount": 2,
+      "lastUsedAt": 1785508911144
+    },
+    "receiving-code-review": {
+      "usageCount": 1,
+      "lastUsedAt": 1781689931436
+    },
+    "claude-md-management:claude-md-improver": {
+      "usageCount": 48,
+      "lastUsedAt": 1788362972052
+    },
+    "insights": {
+      "usageCount": 12,
+      "lastUsedAt": 1785731611298
+    },
+    "superpowers:dispatching-parallel-agents": {
+      "usageCount": 1,
+      "lastUsedAt": 1782224805526
+    },
+    "excalidraw-diagram": {
+      "usageCount": 5,
+      "lastUsedAt": 1782742958697
+    },
+    "claude-md-management:revise-claude-md": {
+      "usageCount": 43,
+      "lastUsedAt": 1787800975208
+    },
+    "docx": {
+      "usageCount": 9,
+      "lastUsedAt": 1787132014914
+    },
+    "Humanizer-zh": {
+      "usageCount": 9,
+      "lastUsedAt": 1787033537293
+    },
+    "frontend-design": {
+      "usageCount": 8,
+      "lastUsedAt": 1784514747514
+    },
+    "anthropic-skills:consolidate-memory": {
+      "usageCount": 1,
+      "lastUsedAt": 1783344043856
+    },
+    "dispatching-parallel-agents": {
+      "usageCount": 5,
+      "lastUsedAt": 1785893916695
+    },
+    "bug-fix": {
+      "usageCount": 8,
+      "lastUsedAt": 1785139695723
+    },
+    "three-step-analysis": {
+      "usageCount": 47,
+      "lastUsedAt": 1784792999898
+    },
+    "visualization": {
+      "usageCount": 1,
+      "lastUsedAt": 1784002540926
+    },
+    "java-fullstack": {
+      "usageCount": 5,
+      "lastUsedAt": 1785907522999
+    },
+    "annotation-check": {
+      "usageCount": 4,
+      "lastUsedAt": 1784879235585
+    },
+    "product-manager": {
+      "usageCount": 4,
+      "lastUsedAt": 1785404017103
+    },
+    "writing-skills": {
+      "usageCount": 4,
+      "lastUsedAt": 1785896339792
+    },
+    "code-review:code-review": {
+      "usageCount": 16,
+      "lastUsedAt": 1786445649530
+    },
+    "ui-design": {
+      "usageCount": 11,
+      "lastUsedAt": 1787107059001
+    },
+    "feature-dev": {
+      "usageCount": 3,
+      "lastUsedAt": 1784733591077
+    },
+    "web-tester": {
+      "usageCount": 1,
+      "lastUsedAt": 1784773306873
+    },
+    "deep-brainstorming": {
+      "usageCount": 57,
+      "lastUsedAt": 1788142254174
+    },
+    "anthropic-skills:pdf": {
+      "usageCount": 1,
+      "lastUsedAt": 1785198064627
+    },
+    "xlsx": {
+      "usageCount": 5,
+      "lastUsedAt": 1787036792165
+    },
+    "archify": {
+      "usageCount": 3,
+      "lastUsedAt": 1786347483479
+    },
+    "doctor": {
+      "usageCount": 2,
+      "lastUsedAt": 1785769610752
+    },
+    "skill-creator": {
+      "usageCount": 5,
+      "lastUsedAt": 1785829818514
+    },
+    "write-rules": {
+      "usageCount": 17,
+      "lastUsedAt": 1785900043836
+    },
+    "frontend-layout": {
+      "usageCount": 1,
+      "lastUsedAt": 1785829831021
+    },
+    "development-workflows": {
+      "usageCount": 1,
+      "lastUsedAt": 1785831696694
+    },
+    "claude-api": {
+      "usageCount": 3,
+      "lastUsedAt": 1787291070323
+    },
+    "requirements-analyst": {
+      "usageCount": 2,
+      "lastUsedAt": 1785893287003
+    },
+    "init-project": {
+      "usageCount": 2,
+      "lastUsedAt": 1785897467035
+    },
+    "security-review": {
+      "usageCount": 1,
+      "lastUsedAt": 1785911863262
+    },
+    "review": {
+      "usageCount": 2,
+      "lastUsedAt": 1786433655169
+    },
+    "anthropic-skills:docx": {
+      "usageCount": 2,
+      "lastUsedAt": 1787036782015
+    },
+    "daily-reporter": {
+      "usageCount": 3,
+      "lastUsedAt": 1787038659394
+    },
+    "no-ai-slop": {
+      "usageCount": 3,
+      "lastUsedAt": 1787131967814
+    },
+    "prompt-improver": {
+      "usageCount": 11,
+      "lastUsedAt": 1788156015804
+    },
+    "mcp-builder": {
+      "usageCount": 3,
+      "lastUsedAt": 1787905302413
+    },
+    "loop": {
+      "usageCount": 6,
+      "lastUsedAt": 1788063769347
+    },
+    "claude-code-setup:claude-automation-recommender": {
+      "usageCount": 2,
+      "lastUsedAt": 1788362992479
+    }
+  },
+  "mcpServers": {
+    "chrome-devtools": {
+      "command": "npx",
+      "args": [
+        "chrome-devtools-mcp@latest",
+        "--autoConnect"
+      ]
+    },
+    "sequentialthinking": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-sequential-thinking"
+      ]
+    },
+    "context7": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@upstash/context7-mcp"
+      ]
+    }
+  },
+  "pluginUsage": {
+    "anthropic-skills@inline": {
+      "usageCount": 4,
+      "lastUsedAt": 1787036782015,
+      "lastUsedNumStartups": 70
+    },
+    "frontend-design@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "superpowers@inline": {
+      "usageCount": 672,
+      "lastUsedAt": 1785946829859,
+      "lastUsedNumStartups": 70
+    },
+    "code-review@inline": {
+      "usageCount": 21,
+      "lastUsedAt": 1786445649531,
+      "lastUsedNumStartups": 70
+    },
+    "context7@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "skill-creator@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "code-simplifier@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "github@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "playwright@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "claude-md-management@inline": {
+      "usageCount": 92,
+      "lastUsedAt": 1788155464166,
+      "lastUsedNumStartups": 72
+    },
+    "feature-dev@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "security-guidance@inline": {
+      "usageCount": 87,
+      "lastUsedAt": 1781223521315,
+      "lastUsedNumStartups": 27
+    },
+    "1.0.0@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "ralph-loop@inline": {
+      "usageCount": 10,
+      "lastUsedAt": 1781171022000,
+      "lastUsedNumStartups": 27
+    },
+    "claude-code-setup@inline": {
+      "usageCount": 1,
+      "lastUsedAt": 1788362992479,
+      "lastUsedNumStartups": 72
+    },
+    "agentforce-adlc@inline": {
+      "usageCount": 45,
+      "lastUsedAt": 1781075532083,
+      "lastUsedNumStartups": 8
+    },
+    "vercel@inline": {
+      "usageCount": 31,
+      "lastUsedAt": 1781223521315,
+      "lastUsedNumStartups": 27
+    },
+    "commit-commands@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "figma@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "supabase@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "pr-review-toolkit@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "telegram@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "serena@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "atlassian@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "chrome-devtools-mcp@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "slack@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "agent-sdk-dev@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "plugin-dev@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "explanatory-output-style@inline": {
+      "usageCount": 20,
+      "lastUsedAt": 1781223521315,
+      "lastUsedNumStartups": 27
+    },
+    "playground@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "hookify@inline": {
+      "usageCount": 1271,
+      "lastUsedAt": 1781173430229,
+      "lastUsedNumStartups": 27
+    },
+    "greptile@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "linear@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "learning-output-style@inline": {
+      "usageCount": 20,
+      "lastUsedAt": 1781223521315,
+      "lastUsedNumStartups": 27
+    },
+    "stripe@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "gitlab@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "remember@inline": {
+      "usageCount": 385,
+      "lastUsedAt": 1781075538593,
+      "lastUsedNumStartups": 8
+    },
+    "sentry@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "firecrawl@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "huggingface-skills@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "coderabbit@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "discord@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "firebase@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "mcp-server-dev@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "laravel-boost@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "microsoft-docs@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781057167857,
+      "lastUsedNumStartups": 3
+    },
+    "semgrep@inline": {
+      "usageCount": 68,
+      "lastUsedAt": 1781223521315,
+      "lastUsedNumStartups": 27
+    },
+    "claude-mem@inline": {
+      "usageCount": 38573,
+      "lastUsedAt": 1784596877327,
+      "lastUsedNumStartups": 69
+    },
+    "superpowers@superpowers-marketplace": {
+      "usageCount": 32,
+      "lastUsedAt": 1782581371378,
+      "lastUsedNumStartups": 64
+    },
+    "code-modernization@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781141935352,
+      "lastUsedNumStartups": 12
+    },
+    "cwc-makers@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781141935352,
+      "lastUsedNumStartups": 12
+    },
+    "math-olympiad@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781141935352,
+      "lastUsedNumStartups": 12
+    },
+    "mcp-tunnels@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781141935352,
+      "lastUsedNumStartups": 12
+    },
+    "9eae436aa296@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781141935352,
+      "lastUsedNumStartups": 12
+    },
+    "claude-mem@claude-mem": {
+      "usageCount": 3280,
+      "lastUsedAt": 1784594201138,
+      "lastUsedNumStartups": 69
+    },
+    ".claude@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781165669632,
+      "lastUsedNumStartups": 25
+    },
+    "vanta@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781168862751,
+      "lastUsedNumStartups": 27
+    },
+    "imessage@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781168862751,
+      "lastUsedNumStartups": 27
+    },
+    "asana@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781168862751,
+      "lastUsedNumStartups": 27
+    },
+    "terraform@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781168862751,
+      "lastUsedNumStartups": 27
+    },
+    "fakechat@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781168862751,
+      "lastUsedNumStartups": 27
+    },
+    "postiz@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "neon@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "473fd504bf13@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "exa@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "zoom-plugin@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "zapier@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "fastly-agent-toolkit@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "shopify-plugin@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "liquid-skills@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "intercom@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "auth0@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "nimble@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "planetscale@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "fiftyone@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "5b9b2d72c63f@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "miro@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "cloudinary@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "zoominfo@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "astronomer-data@inline": {
+      "usageCount": 6,
+      "lastUsedAt": 1781223521315,
+      "lastUsedNumStartups": 27
+    },
+    "brightdata-plugin@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "migration-to-aws@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "aws-dev-toolkit@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "cockroachdb@inline": {
+      "usageCount": 6,
+      "lastUsedAt": 1781170952779,
+      "lastUsedNumStartups": 27
+    },
+    "dataverse@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "aws-core@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "nightvision@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "atlan@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "amplitude@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "databases-on-aws@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "qt-development-skills@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "adobe-for-creativity@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "0.1.4@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "sanity@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "resend@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "cloud-sql-postgresql@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "data-agent-kit-starter-pack@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "mongodb@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "prisma@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "airtable@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "acd6d2e0128c@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "oracle-ai-data-platform-workbench-spark-connectors@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "clickhouse@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "e960396da0bd@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "dash0-agent-plugin@inline": {
+      "usageCount": 374,
+      "lastUsedAt": 1781223521315,
+      "lastUsedNumStartups": 27
+    },
+    "build-with-wordpress@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "railway@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "aikido@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "datadog@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "pagerduty@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "mdk-mcp@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "outputai@inline": {
+      "usageCount": 5,
+      "lastUsedAt": 1781223521315,
+      "lastUsedNumStartups": 27
+    },
+    "mercadopago@inline": {
+      "usageCount": 34,
+      "lastUsedAt": 1781172458741,
+      "lastUsedNumStartups": 27
+    },
+    "fluent@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "duckdb-skills@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170487067,
+      "lastUsedNumStartups": 27
+    },
+    "pigment@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781170502574,
+      "lastUsedNumStartups": 27
+    },
+    "azure@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781171216406,
+      "lastUsedNumStartups": 27
+    },
+    "sonarqube@inline": {
+      "usageCount": 3,
+      "lastUsedAt": 1781223521315,
+      "lastUsedNumStartups": 27
+    },
+    "netlify-skills@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781171216406,
+      "lastUsedNumStartups": 27
+    },
+    "ai-plugins@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781171216406,
+      "lastUsedNumStartups": 27
+    },
+    "sap-fiori-mcp-server@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781171216406,
+      "lastUsedNumStartups": 27
+    },
+    "workos@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781171216406,
+      "lastUsedNumStartups": 27
+    },
+    "cds-mcp@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781171216406,
+      "lastUsedNumStartups": 27
+    },
+    "vpai@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781171216406,
+      "lastUsedNumStartups": 27
+    },
+    "1.4.1@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781171216406,
+      "lastUsedNumStartups": 27
+    },
+    "ai@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781171216406,
+      "lastUsedNumStartups": 27
+    },
+    "clickhouse-best-practices@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781171849130,
+      "lastUsedNumStartups": 27
+    },
+    "appwrite@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781171849130,
+      "lastUsedNumStartups": 27
+    },
+    "save-to-spotify@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781171849130,
+      "lastUsedNumStartups": 27
+    },
+    "forge-skills@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781171849130,
+      "lastUsedNumStartups": 27
+    },
+    "legalzoom@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781171849130,
+      "lastUsedNumStartups": 27
+    },
+    "lumen@inline": {
+      "usageCount": 2,
+      "lastUsedAt": 1781223521315,
+      "lastUsedNumStartups": 27
+    },
+    "togetherai-skills@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781171849130,
+      "lastUsedNumStartups": 27
+    },
+    "rootly@inline": {
+      "usageCount": 2,
+      "lastUsedAt": 1781223521315,
+      "lastUsedNumStartups": 27
+    },
+    "base44@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "0.1.3@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "bigdata-com@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "aws-amplify@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "azure-cosmos-db-assistant@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "liquid-lsp@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "windsor-ai@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "mcp-apps@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "crowdstrike-falcon-foundry@inline": {
+      "usageCount": 1,
+      "lastUsedAt": 1781223521315,
+      "lastUsedNumStartups": 27
+    },
+    "alloydb@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "sentry-cli@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "carta-cap-table@inline": {
+      "usageCount": 1,
+      "lastUsedAt": 1781223521315,
+      "lastUsedNumStartups": 27
+    },
+    "datahub-skills@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "buildkite@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "circle@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "duende-skills@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "carta-investors@inline": {
+      "usageCount": 1,
+      "lastUsedAt": 1781223521315,
+      "lastUsedNumStartups": 27
+    },
+    "teamcity-cli@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "fullstory@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "dominodatalab@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "carta-crm@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "jfrog@inline": {
+      "usageCount": 1,
+      "lastUsedAt": 1781223521315,
+      "lastUsedNumStartups": 27
+    },
+    "convex@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "nvidia-skills@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "aws-startup-advisor@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "lusha@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "airwallex@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "alloydb-omni@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "bigquery-data-analytics@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "claude-session-driver@inline": {
+      "usageCount": 44061,
+      "lastUsedAt": 1785911345661,
+      "lastUsedNumStartups": 70
+    },
+    "cloud-sql-mysql@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "cloud-sql-sqlserver@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "dataproc@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "double-shot-latte@inline": {
+      "usageCount": 1963,
+      "lastUsedAt": 1785911305159,
+      "lastUsedNumStartups": 70
+    },
+    "elements-of-style@inline": {
+      "usageCount": 11,
+      "lastUsedAt": 1785890860784,
+      "lastUsedNumStartups": 69
+    },
+    "episodic-memory@inline": {
+      "usageCount": 1156,
+      "lastUsedAt": 1785908424975,
+      "lastUsedNumStartups": 69
+    },
+    "firestore-native@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "knowledge-catalog@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "looker@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "Notion@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "oracledb@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "1.2.0@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "spanner@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "superpowers-chrome@inline": {
+      "usageCount": 17,
+      "lastUsedAt": 1785508911145,
+      "lastUsedNumStartups": 69
+    },
+    "superpowers-developing-for-claude-code@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "superpowers-lab@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "valtown@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "private-journal-mcp@superpowers-marketplace": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223516207,
+      "lastUsedNumStartups": 27
+    },
+    "claude-session-driver@superpowers-marketplace": {
+      "usageCount": 5997,
+      "lastUsedAt": 1785908457550,
+      "lastUsedNumStartups": 69
+    },
+    "double-shot-latte@superpowers-marketplace": {
+      "usageCount": 36,
+      "lastUsedAt": 1785804639011,
+      "lastUsedNumStartups": 69
+    },
+    "elements-of-style@superpowers-marketplace": {
+      "usageCount": 1,
+      "lastUsedAt": 1781510441241,
+      "lastUsedNumStartups": 39
+    },
+    "episodic-memory@superpowers-marketplace": {
+      "usageCount": 2339,
+      "lastUsedAt": 1785908457291,
+      "lastUsedNumStartups": 69
+    },
+    "superpowers-chrome@superpowers-marketplace": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223847040,
+      "lastUsedNumStartups": 27
+    },
+    "superpowers-developing-for-claude-code@superpowers-marketplace": {
+      "usageCount": 3,
+      "lastUsedAt": 1782235126108,
+      "lastUsedNumStartups": 61
+    },
+    "superpowers-lab@superpowers-marketplace": {
+      "usageCount": 0,
+      "lastUsedAt": 1781223847040,
+      "lastUsedNumStartups": 27
+    },
+    "web-access@skills-dir": {
+      "usageCount": 0,
+      "lastUsedAt": 1781243925864,
+      "lastUsedNumStartups": 30
+    },
+    "claude-code-setup@claude-plugins-official": {
+      "usageCount": 0,
+      "lastUsedAt": 1782235279918,
+      "lastUsedNumStartups": 62
+    },
+    "claude-md-management@claude-plugins-official": {
+      "usageCount": 0,
+      "lastUsedAt": 1782235279918,
+      "lastUsedNumStartups": 62
+    },
+    "code-review@claude-plugins-official": {
+      "usageCount": 0,
+      "lastUsedAt": 1782235279918,
+      "lastUsedNumStartups": 62
+    },
+    "frontend-design@claude-plugins-official": {
+      "usageCount": 0,
+      "lastUsedAt": 1782235279918,
+      "lastUsedNumStartups": 62
+    },
+    "obsidian-visual-skills@axton-obsidian-visual-skills": {
+      "usageCount": 0,
+      "lastUsedAt": 1782236937335,
+      "lastUsedNumStartups": 63
+    },
+    "superpowers@claude-plugins-official": {
+      "usageCount": 1905,
+      "lastUsedAt": 1785939903587,
+      "lastUsedNumStartups": 70
+    },
+    "1265976d9746@inline": {
+      "usageCount": 0,
+      "lastUsedAt": 1782261034807,
+      "lastUsedNumStartups": 63
+    }
+  },
+  "changelogLastFetched": 1787290927613,
+  "hasCompletedOnboarding": true,
+  "lastOnboardingVersion": "2.1.170",
+  "lastReleaseNotesSeen": "2.1.237",
+  "tipLifetimeShownCounts": {
+    "new-user-warmup": 3,
+    "plan-mode-for-complex-tasks": 10,
+    "memory-command": 5,
+    "theme-command": 4,
+    "powershell-tool-env": 6,
+    "status-line": 3,
+    "prompt-queue": 6,
+    "agents-view-multiclauding": 5,
+    "color-when-multi-clauding": 6,
+    "enter-to-steer-in-relatime": 4,
+    "todo-list": 4,
+    "ide-upsell-external-terminal": 9,
+    "drag-and-drop-images": 6,
+    "double-esc-code-restore": 6,
+    "continue": 6,
+    "shift-tab": 6,
+    "image-paste": 4,
+    "subagent-fanout-nudge": 12,
+    "loop-command-nudge": 12,
+    "custom-agents": 5,
+    "permissions": 6,
+    "rename-conversation": 4,
+    "git-worktrees": 2,
+    "dynamic-workflows": 1,
+    "workflow-size-prompting-ambient": 1,
+    "code-review-low-fast": 1
+  },
+  "officialMarketplaceAutoInstallAttempted": true,
+  "officialMarketplaceAutoInstalled": true,
+  "favoritePlugins": [
+    "claude-mem@thedotmack",
+    "superpowers@claude-plugins-official",
+    "code-review@claude-plugins-official",
+    "claude-md-management@claude-plugins-official",
+    "claude-mem@claude-mem"
+  ],
+  "hasOpenedAgentsView": true,
+  "agentLastUsed": {
+    "bg": 1781256957164
+  },
+  "showSpinnerTree": false,
+  "hasSeenAutoModeEntryWarning": true,
+  "githubRepoPaths": {
+    "caixibei/high-speed-scanner": [
+      "F:\\high-speed-scanner"
+    ],
+    "thedotmack/claude-mem": [
+      "C:\\Users\\caixi\\.claude\\plugins\\marketplaces\\claude-mem"
+    ]
+  },
+  "machineID": "c9d69579758c4fcfc599939fdad5396d0e861e8858e0d1cc48c281676353bca9",
+  "hasResetAutoModeOptInForDefaultOffer": true
+}
