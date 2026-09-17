@@ -1,8 +1,8 @@
 # agent_settings
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-%E8%A7%84%E5%88%99%E5%BF%AB%E7%85%A7-d97757?logo=anthropic&logoColor=white)](https://github.com/caixibei/agent_settings/tree/20260916)
-[![Codex](https://img.shields.io/badge/Codex-%E9%85%8D%E7%BD%AE%E5%BF%AB%E7%85%A7-10a37f?logo=openai&logoColor=white)](https://github.com/caixibei/agent_settings/tree/20260916)
-[![ZCode](https://img.shields.io/badge/ZCode-%E9%85%8D%E7%BD%AE%E5%BF%AB%E7%85%A7-4C8BF5)](https://github.com/caixibei/agent_settings/tree/20260916)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-%E8%A7%84%E5%88%99%E5%BF%AB%E7%85%A7-d97757?logo=anthropic&logoColor=white)](https://github.com/caixibei/agent_settings/tree/20260917)
+[![Codex](https://img.shields.io/badge/Codex-%E9%85%8D%E7%BD%AE%E5%BF%AB%E7%85%A7-10a37f?logo=openai&logoColor=white)](https://github.com/caixibei/agent_settings/tree/20260917)
+[![ZCode](https://img.shields.io/badge/ZCode-%E9%85%8D%E7%BD%AE%E5%BF%AB%E7%85%A7-4C8BF5)](https://github.com/caixibei/agent_settings/tree/20260917)
 
 [![Release](https://img.shields.io/github/v/release/caixibei/agent_settings?label=Release)](https://github.com/caixibei/agent_settings/releases)
 [![发布日期](https://img.shields.io/github/release-date/caixibei/agent_settings?label=%E5%8F%91%E5%B8%83%E6%97%A5%E6%9C%9F)](https://github.com/caixibei/agent_settings/releases)
@@ -13,9 +13,9 @@
 [![Watch](https://img.shields.io/github/watchers/caixibei/agent_settings?style=social&label=Watch)](https://github.com/caixibei/agent_settings/watchers)
 [![贡献者](https://img.shields.io/github/contributors/caixibei/agent_settings?label=%E8%B4%A1%E7%8C%AE%E8%80%85)](https://github.com/caixibei/agent_settings/graphs/contributors)
 
-[![总提交](https://img.shields.io/github/commit-activity/t/caixibei/agent_settings?label=%E6%80%BB%E6%8F%90%E4%BA%A4)](https://github.com/caixibei/agent_settings/commits/20260916)
-[![月提交](https://img.shields.io/github/commit-activity/m/caixibei/agent_settings?label=%E6%9C%88%E6%8F%90%E4%BA%A4)](https://github.com/caixibei/agent_settings/commits/20260916)
-[![最近提交](https://img.shields.io/github/last-commit/caixibei/agent_settings/20260916?label=%E6%9C%80%E8%BF%91%E6%8F%90%E4%BA%A4)](https://github.com/caixibei/agent_settings/commits/20260916)
+[![总提交](https://img.shields.io/github/commit-activity/t/caixibei/agent_settings?label=%E6%80%BB%E6%8F%90%E4%BA%A4)](https://github.com/caixibei/agent_settings/commits/20260917)
+[![月提交](https://img.shields.io/github/commit-activity/m/caixibei/agent_settings?label=%E6%9C%88%E6%8F%90%E4%BA%A4)](https://github.com/caixibei/agent_settings/commits/20260917)
+[![最近提交](https://img.shields.io/github/last-commit/caixibei/agent_settings/20260917?label=%E6%9C%80%E8%BF%91%E6%8F%90%E4%BA%A4)](https://github.com/caixibei/agent_settings/commits/20260917)
 [![Issues](https://img.shields.io/github/issues/caixibei/agent_settings?label=Issues)](https://github.com/caixibei/agent_settings/issues)
 [![PR](https://img.shields.io/github/issues-pr/caixibei/agent_settings?label=PR)](https://github.com/caixibei/agent_settings/pulls)
 [![仓库体积](https://img.shields.io/github/repo-size/caixibei/agent_settings?label=%E4%BB%93%E5%BA%93%E4%BD%93%E7%A7%AF)](https://github.com/caixibei/agent_settings)
@@ -40,12 +40,13 @@ Claude Code、Codex、ZCode 三套 AI 编码工具的提示词进化档案。从
 | [20260911](https://github.com/caixibei/agent_settings/tree/20260911) | zcode 3 个 zip，codex 同日 5 个小版本 v26.9.11.1～5 | ZCode 首次入库，单日多版本 |
 | [20260912](https://github.com/caixibei/agent_settings/tree/20260912) ～ [20260914](https://github.com/caixibei/agent_settings/tree/20260914) | codex 每日一包（v26.9.12.1 → v26.9.14.1） | — |
 | [20260915](https://github.com/caixibei/agent_settings/tree/20260915) | codex v26.9.15.1～2，zcode v26.9.15.1～2 | ZCode 时隔 4 天再次入库，与 codex 同步迭代 |
-| [20260916](https://github.com/caixibei/agent_settings/tree/20260916) | codex v26.9.16.1～2，zcode v26.9.16.1 | 当前最新 |
+| [20260916](https://github.com/caixibei/agent_settings/tree/20260916) | codex v26.9.16.1～2，zcode v26.9.16.1 | codex 单日双版本迭代，zcode 同日跟进 |
+| [20260917](https://github.com/caixibei/agent_settings/tree/20260917) | codex v26.9.17.1～2，zcode v26.9.17.1 | 当前最新 |
 
 ## 分支怎么组织
 
 - `main` 只放仓库级公共文件：README、.gitignore、[CC使用技巧.md](CC使用技巧.md)。
-- 每个日期分支 = 前一个日期分支 + 当日新增，链式递增。越新的分支内容越全，[最新分支](https://github.com/caixibei/agent_settings/tree/20260916)就是整个仓库的完整镜像。
+- 每个日期分支 = 前一个日期分支 + 当日新增，链式递增。越新的分支内容越全，[最新分支](https://github.com/caixibei/agent_settings/tree/20260917)就是整个仓库的完整镜像。
 - 提交信息统一为「备份 YYYYMMDD ：内容摘要」，提交日期与分支日期一致，`git log` 可直接按时间读。
 - 每个日期分支都打有 `v` + 日期的 tag 并发布了 [GitHub Release](https://github.com/caixibei/agent_settings/releases)（如 [v20260916](https://github.com/caixibei/agent_settings/releases/tag/v20260916)），正文包含当日快照清单、迭代要点、当日提交与和上一版本的对比命令。
 
