@@ -44,7 +44,7 @@ Claude Code、Codex、ZCode 三套 AI 编码工具的提示词进化档案。从
 | [20260917](https://github.com/caixibei/agent_settings/tree/20260917) | codex v26.9.17.1～2，zcode v26.9.17.1～2 | zcode 追加 .2 版，与 codex 同步双迭代 |
 | [20260918](https://github.com/caixibei/agent_settings/tree/20260918) | codex v26.9.18.1～2，zcode v26.9.18.1～2 | zcode 追加 .2 版，与 codex 同步双迭代 |
 | [20260919](https://github.com/caixibei/agent_settings/tree/20260919) | codex v26.9.19.1，zcode v26.9.19.1 | 双工具单包日更 |
-| [20260920](https://github.com/caixibei/agent_settings/tree/20260920) | codex v26.9.20.1 | 仅 codex 单包日更 |
+| [20260920](https://github.com/caixibei/agent_settings/tree/20260920) | codex v26.9.20.1，zcode v26.9.20.1 | codex 单包日更，zcode 追加补齐 |
 | [20260921](https://github.com/caixibei/agent_settings/tree/20260921) | codex v26.9.21.1～2，zcode v26.9.21.1～2 | 当前最新；双工具同步双版本迭代 |
 
 ## 分支怎么组织
