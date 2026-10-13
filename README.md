@@ -55,7 +55,7 @@ Claude Code、Codex、ZCode 三套 AI 编码工具的提示词进化档案。从
 | [20261008](https://github.com/caixibei/agent_settings/tree/20261008) | zcode v26.10.8.1～2 | 假期后复更，版本号进入 v26.10.x，单日双包 |
 | [20261009](https://github.com/caixibei/agent_settings/tree/20261009) | zcode v26.10.9.1 | — |
 | [20261010](https://github.com/caixibei/agent_settings/tree/20261010) | zcode v26.10.10.1～2 | zcode 单日双包连更，进入 v26.10.10 |
-| [20261013](https://github.com/caixibei/agent_settings/tree/20261013) | zcode v26.10.13.1 | — |
+| [20261013](https://github.com/caixibei/agent_settings/tree/20261013) | zcode v26.10.13.1～3 | 单日三包迭代 |
 
 ## 分支怎么组织
 
